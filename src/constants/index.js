@@ -1,0 +1,1 @@
+export const logo = 'https://static-00.iconduck.com/assets.00/a-letter-icon-2048x2048-ivt882vt.png'
